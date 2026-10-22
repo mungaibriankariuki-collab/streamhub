@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:title="@string/menu_home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_desktop"
+        android:title="@string/menu_desktop"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_external"
+        android:title="@string/menu_external"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_update_engine"
+        android:title="@string/update_engine"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_clear_data"
+        android:title="@string/menu_clear_data"
+        app:showAsAction="never" />
+</menu>

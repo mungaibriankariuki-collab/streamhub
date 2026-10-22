@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">StreamHub</string>
+    <string name="home_headline">What are we watching?</string>
+    <string name="home_subtitle">Pick a site below, or open any link. Video plays right inside the app.</string>
+    <string name="open_link_hint">Open any link or search the web</string>
+    <string name="go">Go</string>
+    <string name="sites_title">Streaming sites</string>
+    <string name="sites_subtitle">Tap to open. Downloads work on YouTube, TikTok and 1000+ other sites.</string>
+    <string name="home_footer">Tip: in the browser, tap the download icon to save the current video as MP4 or MP3. Files are saved to Download/StreamHub.\n\nOnly download content you own or have permission to save.</string>
+
+    <string name="search_hint">Search or enter address</string>
+    <string name="download_page">Download this page</string>
+    <string name="download_video">Video (MP4, up to 1080p)</string>
+    <string name="download_audio">Song (MP3)</string>
+    <string name="download_direct">Direct file</string>
+    <string name="cancel">Cancel</string>
+    <string name="download_starting_video">Starting video download…</string>
+    <string name="download_starting_audio">Starting song download…</string>
+    <string name="download_cancelling">Cancelling…</string>
+    <string name="download_cancelled">Download cancelled.</string>
+    <string name="download_failed">Download failed: %1$s</string>
+    <string name="download_saved">Saved to Download/StreamHub: %1$s</string>
+    <string name="open_page_first">Open a page first.</string>
+    <string name="already_downloading">A download is already running.</string>
+    <string name="direct_started">Downloading %1$s. Check your notifications.</string>
+    <string name="direct_failed">Couldn’t start that download: %1$s</string>
+    <string name="download_unsupported">This link can’t be downloaded directly. Use the download button for MP4 or MP3.</string>
+    <string name="page_error">Couldn’t load the page: %1$s</string>
+
+    <string name="menu_home">Site list</string>
+    <string name="menu_desktop">Desktop site</string>
+    <string name="menu_external">Open in another browser</string>
+    <string name="menu_clear_data">Clear browsing data</string>
+    <string name="clear">Clear</string>
+    <string name="clear_data_confirm">This clears cookies, site storage and cache. You’ll be signed out everywhere.</string>
+    <string name="cleared">Browsing data cleared.</string>
+    <string name="desktop_on">Desktop site on</string>
+    <string name="desktop_off">Desktop site off</string>
+    <string name="no_app">No app can open that link.</string>
+
+    <string name="update_engine">Update downloader engine</string>
+    <string name="update_checking">Checking for downloader update…</string>
+    <string name="update_failed">Update failed: %1$s</string>
+    <string name="engine_updating">Updating downloader engine…</string>
+    <string name="about">About</string>
+    <string name="about_text">StreamHub is a lightweight browser for streaming sites, with a built-in downloader powered by yt-dlp.\n\nVideos and songs from YouTube, TikTok, Instagram, X, Facebook, SoundCloud and 1000+ other sites can be saved as MP4 or MP3.\n\nDRM services such as Netflix and Spotify don’t work in this app. Only download content you own or have permission to save.</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_forward">Forward</string>
+    <string name="cd_reload">Reload</string>
+    <string name="cd_download">Download this page</string>
+    <string name="cd_menu">More options</string>
+    <string name="cd_close">Close</string>
+</resources>
